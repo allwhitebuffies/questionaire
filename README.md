@@ -4,6 +4,10 @@ Questionaire
 ##### Q1: Knowing what you know about GitHub, how would you design the high level infrastructure for github.com? What sequence of steps would happen when loading http://www.github.com in a browser? Don't worry about describing the specific libraries and services that handle each step.
 
 A1:  
+- High level infrastructure design:
+
+- Sequence of steps what would happen:
+
 
 ##### Q2: Describe the common components of web application frameworks. What purpose does each component serve? What is the benefit of separating each component from the others?
 
