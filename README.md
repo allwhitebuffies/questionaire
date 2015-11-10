@@ -1,15 +1,15 @@
 Questionaire
 ===
  
-    Q1: Knowing what you know about GitHub, how would you design the high level infrastructure for github.com? What sequence of steps would happen when loading http://www.github.com in a browser? Don't worry about describing the specific libraries and services that handle each step.
+##### Q1: Knowing what you know about GitHub, how would you design the high level infrastructure for github.com? What sequence of steps would happen when loading http://www.github.com in a browser? Don't worry about describing the specific libraries and services that handle each step.
 
-    A1:
+A1:  
 
-    Q2: Describe the common components of web application frameworks. What purpose does each component serve? What is the benefit of separating each component from the others?
+##### Q2: Describe the common components of web application frameworks. What purpose does each component serve? What is the benefit of separating each component from the others?
 
-    A2:
+A2:
 
-    Q3: Given the following table schema, indexes, and query plan, explain how the query is executed and what you would do to improve the performance.
+##### Q3: Given the following table schema, indexes, and query plan, explain how the query is executed and what you would do to improve the performance.
 
     mysql> describe ci_statuses;
     +-----------------+--------------+------+-----+---------+----------------+
