@@ -10,6 +10,7 @@ A1:
   - How does GitHub's infrastruture currently operate?
   - Where is GitHub headed?
   - Capacity
+  - How does GitHub's filesystem work?
 
 
 - Sequence of steps what would happen:
