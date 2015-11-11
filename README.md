@@ -5,6 +5,12 @@ Questionaire
 
 A1:  
 - High level infrastructure design:
+  
+  - Benefits of using Rackspace / Why is GitHub using Rackspace
+  - How does GitHub's infrastruture currently operate?
+  - Where is GitHub headed?
+  - Capacity
+
 
 - Sequence of steps what would happen:
 
